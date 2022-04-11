@@ -68,7 +68,8 @@ module.exports.execute = (client) => {
           legend: { display: false, },
           title: {
             display: true,
-            text: 'Chart.js Line Chart updated 1'
+            text: 'Chart.js Line sakskkskwksksksksskks 
+            updated 1'
           }
         }
       },
